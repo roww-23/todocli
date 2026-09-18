@@ -1,2 +1,3 @@
 ﻿Demo change for Supervisor
 This is an new project
+This project is done to perform Push, Pull and Clone operations 
